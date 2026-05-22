@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PRN232.LMS.API</name>
+    </assembly>
+    <members>
+        <member name="M:PRN232.LMS.API.Controllers.CoursesController.GetAll(System.String,System.String,System.Int32,System.Int32,System.String,System.String)">
+            <summary>
+            Get all courses with pagination, search, sorting, and field selection
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.CoursesController.GetById(System.Int32,System.String)">
+            <summary>
+            Get a course by ID
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.CoursesController.Create(PRN232.LMS.Services.Requests.CreateCourseRequest)">
+            <summary>
+            Create a new course
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.CoursesController.Update(System.Int32,PRN232.LMS.Services.Requests.UpdateCourseRequest)">
+            <summary>
+            Update an existing course
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.CoursesController.Delete(System.Int32)">
+            <summary>
+            Delete a course
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.EnrollmentsController.GetAll(System.String,System.String,System.Int32,System.Int32,System.String,System.String)">
+            <summary>
+            Get all enrollments with pagination, search, sorting, and field selection
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.EnrollmentsController.GetById(System.Int32,System.String)">
+            <summary>
+            Get an enrollment by ID
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.EnrollmentsController.Create(PRN232.LMS.Services.Requests.CreateEnrollmentRequest)">
+            <summary>
+            Create a new enrollment
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.EnrollmentsController.Update(System.Int32,PRN232.LMS.Services.Requests.UpdateEnrollmentRequest)">
+            <summary>
+            Update an existing enrollment
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.EnrollmentsController.Delete(System.Int32)">
+            <summary>
+            Delete an enrollment
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.SemestersController.GetAll(System.String,System.String,System.Int32,System.Int32,System.String,System.String)">
+            <summary>
+            Get all semesters with pagination, search, sorting, and field selection
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.SemestersController.GetById(System.Int32)">
+            <summary>
+            Get a semester by ID
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.SemestersController.Create(PRN232.LMS.Services.Requests.CreateSemesterRequest)">
+            <summary>
+            Create a new semester
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.SemestersController.Update(System.Int32,PRN232.LMS.Services.Requests.UpdateSemesterRequest)">
+            <summary>
+            Update an existing semester
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.SemestersController.Delete(System.Int32)">
+            <summary>
+            Delete a semester
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.StudentsController.GetAll(System.String,System.String,System.Int32,System.Int32,System.String,System.String)">
+            <summary>
+            Get all students with pagination, search, sorting, and field selection
+            </summary>
+            <param name="search">Search by name or email</param>
+            <param name="sort">Sort field (prefix with - for descending)</param>
+            <param name="page">Page number (default: 1)</param>
+            <param name="size">Page size (default: 10)</param>
+            <param name="fields">Fields to include in response</param>
+            <param name="expand">Related data to include (e.g., enrollments)</param>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.StudentsController.GetById(System.Int32,System.String)">
+            <summary>
+            Get a student by ID
+            </summary>
+            <param name="id">Student ID</param>
+            <param name="expand">Related data to include (e.g., enrollments)</param>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.StudentsController.Create(PRN232.LMS.Services.Requests.CreateStudentRequest)">
+            <summary>
+            Create a new student
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.StudentsController.Update(System.Int32,PRN232.LMS.Services.Requests.UpdateStudentRequest)">
+            <summary>
+            Update an existing student
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.StudentsController.Delete(System.Int32)">
+            <summary>
+            Delete a student
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.SubjectsController.GetAll(System.String,System.String,System.Int32,System.Int32,System.String,System.String)">
+            <summary>
+            Get all subjects with pagination, search, sorting, and field selection
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.SubjectsController.GetById(System.Int32)">
+            <summary>
+            Get a subject by ID
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.SubjectsController.Create(PRN232.LMS.Services.Requests.CreateSubjectRequest)">
+            <summary>
+            Create a new subject
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.SubjectsController.Update(System.Int32,PRN232.LMS.Services.Requests.UpdateSubjectRequest)">
+            <summary>
+            Update an existing subject
+            </summary>
+        </member>
+        <member name="M:PRN232.LMS.API.Controllers.SubjectsController.Delete(System.Int32)">
+            <summary>
+            Delete a subject
+            </summary>
+        </member>
+    </members>
+</doc>

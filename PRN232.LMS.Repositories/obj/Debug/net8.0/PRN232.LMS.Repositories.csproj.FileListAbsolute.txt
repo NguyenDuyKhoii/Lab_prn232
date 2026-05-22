@@ -1,0 +1,12 @@
+C:\Users\Duy Khoi\source\repos\PRN232.LMS\PRN232.LMS.Repositories\obj\Debug\net8.0\PRN232.LMS.Repositories.csproj.AssemblyReference.cache
+C:\Users\Duy Khoi\source\repos\PRN232.LMS\PRN232.LMS.Repositories\obj\Debug\net8.0\PRN232.LMS.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duy Khoi\source\repos\PRN232.LMS\PRN232.LMS.Repositories\obj\Debug\net8.0\PRN232.LMS.Repositories.AssemblyInfoInputs.cache
+C:\Users\Duy Khoi\source\repos\PRN232.LMS\PRN232.LMS.Repositories\obj\Debug\net8.0\PRN232.LMS.Repositories.AssemblyInfo.cs
+C:\Users\Duy Khoi\source\repos\PRN232.LMS\PRN232.LMS.Repositories\obj\Debug\net8.0\PRN232.LMS.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Duy Khoi\source\repos\PRN232.LMS\PRN232.LMS.Repositories\bin\Debug\net8.0\PRN232.LMS.Repositories.deps.json
+C:\Users\Duy Khoi\source\repos\PRN232.LMS\PRN232.LMS.Repositories\bin\Debug\net8.0\PRN232.LMS.Repositories.dll
+C:\Users\Duy Khoi\source\repos\PRN232.LMS\PRN232.LMS.Repositories\bin\Debug\net8.0\PRN232.LMS.Repositories.pdb
+C:\Users\Duy Khoi\source\repos\PRN232.LMS\PRN232.LMS.Repositories\obj\Debug\net8.0\PRN232.LMS.Repositories.dll
+C:\Users\Duy Khoi\source\repos\PRN232.LMS\PRN232.LMS.Repositories\obj\Debug\net8.0\refint\PRN232.LMS.Repositories.dll
+C:\Users\Duy Khoi\source\repos\PRN232.LMS\PRN232.LMS.Repositories\obj\Debug\net8.0\PRN232.LMS.Repositories.pdb
+C:\Users\Duy Khoi\source\repos\PRN232.LMS\PRN232.LMS.Repositories\obj\Debug\net8.0\ref\PRN232.LMS.Repositories.dll
